@@ -1,6 +1,10 @@
 # .
+Это простое Vue 3-приложение для поиска фильмов по названию с использованием [OMDb API](http://www.omdbapi.com/). Пользователь может искать фильмы, просматривать подробности.
 
-This template should help get you started developing with Vue 3 in Vite.
+## Функции
+
+- Поиск фильмов по названию
+- Страница с подробной информацией о фильме
 
 ## Recommended IDE Setup
 
